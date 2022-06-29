@@ -1,392 +1,72 @@
-Contribution: 2018-03-20 20:00
 
-Contribution: 2018-03-20 20:01
+[![Linkedin Badge](https://img.shields.io/badge/Sametkaya-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samet-kaya-736604170/)
+![Instagram Badge](https://img.shields.io/badge/kaya67380@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
-Contribution: 2018-03-20 20:02
 
-Contribution: 2018-03-20 20:03
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage.PNG)
+<br> 
 
-Contribution: 2018-03-31 20:00
 
-Contribution: 2018-03-31 20:01
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage2.PNG)
+<br> 
 
-Contribution: 2018-03-31 20:02
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage3.PNG)
+<br> 
 
-Contribution: 2018-03-31 20:03
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage4.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:00
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage5.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:01
+![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage6.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:02
+![LoginPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/LoginPage.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:03
+![Register Page](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/RegisterPage.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:04
+![UserProfile](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/UserProfile.PNG)
+<br> 
 
-Contribution: 2018-04-08 20:05
+![AdminPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/AdminPage.PNG)
+<br> 
 
-Contribution: 2018-04-09 20:00
+![CarsPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/CarsPage.PNG)
+<br> 
 
-Contribution: 2018-04-09 20:01
+![CarUpdate](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/CarUpdate.PNG)
+<br> 
 
-Contribution: 2018-04-09 20:02
+![ColorPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/ColorPage.PNG)
+<br> 
 
-Contribution: 2018-04-09 20:03
+# RentACarFrontEnd
 
-Contribution: 2018-04-09 20:04
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
-Contribution: 2018-04-09 20:05
+## Development server
 
-Contribution: 2018-04-12 20:00
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Contribution: 2018-04-14 20:00
+## Code scaffolding
 
-Contribution: 2018-04-14 20:01
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Contribution: 2018-04-14 20:02
+## Build
 
-Contribution: 2018-04-14 20:03
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Contribution: 2018-04-14 20:04
+## Running unit tests
 
-Contribution: 2018-04-19 20:00
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contribution: 2018-04-21 20:00
+## Running end-to-end tests
 
-Contribution: 2018-04-21 20:01
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-Contribution: 2018-04-21 20:02
+## Further help
 
-Contribution: 2018-04-21 20:03
-
-Contribution: 2018-04-23 20:00
-
-Contribution: 2018-04-23 20:01
-
-Contribution: 2018-04-23 20:02
-
-Contribution: 2018-04-23 20:03
-
-Contribution: 2018-05-04 20:00
-
-Contribution: 2018-05-04 20:01
-
-Contribution: 2018-05-04 20:02
-
-Contribution: 2018-05-04 20:03
-
-Contribution: 2018-05-08 20:00
-
-Contribution: 2018-05-08 20:01
-
-Contribution: 2018-05-08 20:02
-
-Contribution: 2018-05-14 20:00
-
-Contribution: 2018-05-14 20:01
-
-Contribution: 2018-05-14 20:02
-
-Contribution: 2018-05-14 20:03
-
-Contribution: 2018-05-15 20:00
-
-Contribution: 2018-05-15 20:01
-
-Contribution: 2018-05-15 20:02
-
-Contribution: 2018-05-15 20:03
-
-Contribution: 2018-05-20 20:00
-
-Contribution: 2018-05-20 20:01
-
-Contribution: 2018-06-05 20:00
-
-Contribution: 2018-06-05 20:01
-
-Contribution: 2018-06-05 20:02
-
-Contribution: 2018-06-05 20:03
-
-Contribution: 2018-06-07 20:00
-
-Contribution: 2018-06-16 20:00
-
-Contribution: 2018-06-16 20:01
-
-Contribution: 2018-06-16 20:02
-
-Contribution: 2018-06-16 20:03
-
-Contribution: 2018-06-16 20:04
-
-Contribution: 2018-06-16 20:05
-
-Contribution: 2018-06-16 20:06
-
-Contribution: 2018-06-16 20:07
-
-Contribution: 2018-06-18 20:00
-
-Contribution: 2018-06-18 20:01
-
-Contribution: 2018-06-18 20:02
-
-Contribution: 2018-06-18 20:03
-
-Contribution: 2018-06-18 20:04
-
-Contribution: 2018-06-18 20:05
-
-Contribution: 2018-06-18 20:06
-
-Contribution: 2018-06-18 20:07
-
-Contribution: 2018-06-18 20:08
-
-Contribution: 2018-06-27 20:00
-
-Contribution: 2018-06-27 20:01
-
-Contribution: 2018-06-27 20:02
-
-Contribution: 2018-06-27 20:03
-
-Contribution: 2018-06-27 20:04
-
-Contribution: 2018-06-27 20:05
-
-Contribution: 2018-06-27 20:06
-
-Contribution: 2018-06-27 20:07
-
-Contribution: 2018-06-27 20:08
-
-Contribution: 2018-06-29 20:00
-
-Contribution: 2018-06-29 20:01
-
-Contribution: 2018-07-06 20:00
-
-Contribution: 2018-07-06 20:01
-
-Contribution: 2018-07-07 20:00
-
-Contribution: 2018-07-07 20:01
-
-Contribution: 2018-07-07 20:02
-
-Contribution: 2018-07-07 20:03
-
-Contribution: 2018-07-08 20:00
-
-Contribution: 2018-07-08 20:01
-
-Contribution: 2018-07-18 20:00
-
-Contribution: 2018-07-18 20:01
-
-Contribution: 2018-07-18 20:02
-
-Contribution: 2018-07-18 20:03
-
-Contribution: 2018-07-18 20:04
-
-Contribution: 2018-07-18 20:05
-
-Contribution: 2018-07-18 20:06
-
-Contribution: 2018-07-18 20:07
-
-Contribution: 2018-07-26 20:00
-
-Contribution: 2018-07-26 20:01
-
-Contribution: 2018-07-26 20:02
-
-Contribution: 2018-07-26 20:03
-
-Contribution: 2018-07-26 20:04
-
-Contribution: 2018-07-26 20:05
-
-Contribution: 2018-07-26 20:06
-
-Contribution: 2018-07-26 20:07
-
-Contribution: 2018-08-03 20:00
-
-Contribution: 2018-08-04 20:00
-
-Contribution: 2018-08-04 20:01
-
-Contribution: 2018-08-04 20:02
-
-Contribution: 2018-08-05 20:00
-
-Contribution: 2018-08-05 20:01
-
-Contribution: 2018-08-05 20:02
-
-Contribution: 2018-08-05 20:03
-
-Contribution: 2018-08-06 20:00
-
-Contribution: 2018-08-06 20:01
-
-Contribution: 2018-08-08 20:00
-
-Contribution: 2018-08-26 20:00
-
-Contribution: 2018-08-26 20:01
-
-Contribution: 2018-09-01 20:00
-
-Contribution: 2018-09-01 20:01
-
-Contribution: 2018-09-01 20:02
-
-Contribution: 2018-09-01 20:03
-
-Contribution: 2018-09-01 20:04
-
-Contribution: 2018-09-01 20:05
-
-Contribution: 2018-09-03 20:00
-
-Contribution: 2018-09-06 20:00
-
-Contribution: 2018-09-06 20:01
-
-Contribution: 2018-09-06 20:02
-
-Contribution: 2018-09-08 20:00
-
-Contribution: 2018-09-08 20:01
-
-Contribution: 2018-09-12 20:00
-
-Contribution: 2018-09-12 20:01
-
-Contribution: 2018-09-12 20:02
-
-Contribution: 2018-09-12 20:03
-
-Contribution: 2018-09-12 20:04
-
-Contribution: 2018-09-12 20:05
-
-Contribution: 2018-09-13 20:00
-
-Contribution: 2018-09-13 20:01
-
-Contribution: 2018-09-13 20:02
-
-Contribution: 2018-09-13 20:03
-
-Contribution: 2018-09-13 20:04
-
-Contribution: 2018-09-14 20:00
-
-Contribution: 2018-09-14 20:01
-
-Contribution: 2018-09-14 20:02
-
-Contribution: 2018-09-14 20:03
-
-Contribution: 2018-09-15 20:00
-
-Contribution: 2018-09-15 20:01
-
-Contribution: 2018-09-15 20:02
-
-Contribution: 2018-09-15 20:03
-
-Contribution: 2018-09-16 20:00
-
-Contribution: 2018-09-17 20:00
-
-Contribution: 2018-09-17 20:01
-
-Contribution: 2018-09-17 20:02
-
-Contribution: 2018-09-17 20:03
-
-Contribution: 2018-09-17 20:04
-
-Contribution: 2018-09-17 20:05
-
-Contribution: 2018-09-21 20:00
-
-Contribution: 2018-09-23 20:00
-
-Contribution: 2018-09-23 20:01
-
-Contribution: 2018-09-23 20:02
-
-Contribution: 2018-09-23 20:03
-
-Contribution: 2018-09-23 20:04
-
-Contribution: 2018-09-25 20:00
-
-Contribution: 2018-09-25 20:01
-
-Contribution: 2018-09-25 20:02
-
-Contribution: 2018-10-01 20:00
-
-Contribution: 2018-10-01 20:01
-
-Contribution: 2018-10-01 20:02
-
-Contribution: 2018-10-01 20:03
-
-Contribution: 2018-10-01 20:04
-
-Contribution: 2018-10-01 20:05
-
-Contribution: 2018-10-01 20:06
-
-Contribution: 2018-10-04 20:00
-
-Contribution: 2018-10-04 20:01
-
-Contribution: 2018-10-07 20:00
-
-Contribution: 2018-10-07 20:01
-
-Contribution: 2018-10-08 20:00
-
-Contribution: 2018-10-08 20:01
-
-Contribution: 2018-10-12 20:00
-
-Contribution: 2018-10-12 20:01
-
-Contribution: 2018-10-12 20:02
-
-Contribution: 2018-10-12 20:03
-
-Contribution: 2018-10-12 20:04
-
-Contribution: 2018-10-12 20:05
-
-Contribution: 2018-10-14 20:00
-
-Contribution: 2018-10-14 20:01
-
-Contribution: 2018-10-15 20:00
-
-Contribution: 2018-10-15 20:01
-
-Contribution: 2018-10-15 20:02
-
-Contribution: 2018-10-15 20:03
-
-Contribution: 2018-10-15 20:04
-
-Contribution: 2018-10-15 20:05
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
